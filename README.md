@@ -4,12 +4,12 @@ This Repo consists of the Roshan Raut SDE Portfolio.
 > A clean, beautiful, responsive portfolio template for Software Developers!
 https://roshan13046.github.io/RoshanSDEPortfolio/
 
+### Website Preview
+
 ![SDEportfolio2](https://user-images.githubusercontent.com/55108788/97799909-b981f880-1c56-11eb-9282-80079ab9f4fe.png)
 ![SDEPortfolio1](https://user-images.githubusercontent.com/55108788/97799910-bb4bbc00-1c56-11eb-9f4a-eddea146189f.png)
 
 
-
-### Website Preview
 
 ## Features 📋
 ⚡️ Fully Responsive\
